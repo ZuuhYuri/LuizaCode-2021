@@ -1,8 +1,13 @@
 from django.forms import ModelForm
-from app.models import Carros
+from app.models import Empresas, Produtos
 
 # Create the form class.
-class CarrosForm(ModelForm):
+class ProdutosForm(ModelForm):
     class Meta:
-        model = Carros
-        fields = ['modelo', 'marca', 'ano']
+        model = Produtos
+        fields = ['cnpj', 'codigo', 'produto', 'marca', 'quantidade']
+
+class EmpresasForm(ModelForm):
+    class Meta:
+        model = Empresas
+        fields = ['cnpj', 'razaoSocial', 'email', 'cidade', 'estado']
