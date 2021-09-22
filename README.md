@@ -3,10 +3,10 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ellen-code/LuizaCode-2021?color=blueviolet&style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Ellen-code/LuizaCode-2021?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Ellen-code/LuizaCode-2021?color=blueviolet&style=for-the-badge)
+![Github open issues](https://img.shields.io/github/issues/Ellen-code/LuizaCode-2021?color=blue&style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/Ellen-code/LuizaCode-2021?color=blueviolet&style=for-the-badge)
 
 <img src="https://www.clubedecriacao.com.br/wp-content/uploads/2021/07/luiza-code-1024x534.jpg" alt="Luiza code x Gama Academy">
 
@@ -81,7 +81,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://avatars.githubusercontent.com/u/71970858?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
           <b>Ellen</b>
         </sub>
@@ -89,9 +89,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://avatars.githubusercontent.com/u/68450681?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
-          <b>Milene</b>
+          <b>ZuuhYuri</b>
         </sub>
       </a>
     </td>
