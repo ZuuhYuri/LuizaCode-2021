@@ -16,7 +16,7 @@ def form(request):
 
 def form_empresas(request):
     data = {}
-    data['form_empresas'] = EmpresasForm()
+    data['forms_empresas'] = EmpresasForm()
     return render(request, 'forms_empresa.html', data)
 
 def create(request):
@@ -26,9 +26,9 @@ def create(request):
         return redirect('home')
 
 def create_empresas(request):
-    form_empresas = EmpresasForm(request.POST or None)
-    if form_empresas.is_valid():
-        form_empresas.save()
+    forms_empresas = EmpresasForm(request.POST or None)
+    if forms_empresas.is_valid():
+        forms_empresas.save()
         return redirect('home')
 
 def view(request, pk):
