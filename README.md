@@ -95,6 +95,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/89890015?v=4" width="100px;" alt="Foto da Raissa Alencar"/><br>
+        <sub>
+          <b>Aastronauta</b>
+        </sub>
+      </a>
+     </td>
   </tr>
 </table>
 
