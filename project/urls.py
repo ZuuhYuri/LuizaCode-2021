@@ -15,7 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+<<<<<<< Updated upstream
 from app.views import form_empresas, home, form, create, view, edit, update, delete, form
+=======
+from app.views import form_empresas, home, form, create, view, edit, update, delete, create_empresas, view_empresas
+>>>>>>> Stashed changes
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,7 +30,13 @@ urlpatterns = [
     path('edit/<int:pk>/', edit, name='edit'),
     path('update/<int:pk>/', update, name='update'),
     path('delete/<int:pk>/', delete, name='delete'),
+<<<<<<< Updated upstream
     path('forms_empresa/', form_empresas, name='form_empresas'),
+=======
+    path('forms_empresa/', form_empresas, name='forms_empresas'),
+    path('create_empresas/', create_empresas, name='create_empresas'),
+    path('view_empresas/<int:pk>/', view_empresas, name='view_empresas'),
+>>>>>>> Stashed changes
 
 
 ]
